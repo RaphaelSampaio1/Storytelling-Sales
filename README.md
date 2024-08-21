@@ -32,3 +32,38 @@ Technology was consistently the best-performing category, followed by Office Sup
 A few products dominated the sales, with significant contributions from the top 10 items. Understanding these trends can help in inventory management and marketing focus.
 
 These insights can guide future business strategies by highlighting the areas of strength and potential opportunities for improvement.
+
+<hr>
+
+## Files Required
+
+To run the analysis, you'll need to download the following files:
+
+- **Python Script (`analysis.py`)**: Contains the code for performing the sales analysis.
+- **Dataset (`sales_data.csv`)**: Holds the sales data from 2015 to 2018.
+- **Image (`sales_trend.png`)**: Displays the sales trend over the analyzed period.
+
+## How to Run the Analysis
+
+1. **Download the Files**
+
+   Make sure you have the following files:
+   - `analysis.py`
+   - `sales_data.csv`
+   - `sales_trend.png`
+
+2. **Set Up the Environment**
+
+   - Ensure Python is installed on your system.
+   - Install any necessary libraries. Check the `requirements.txt` file (if available) for a list of dependencies.
+
+3. **Place the Files**
+
+   - Make sure all files are in the same directory or adjust the file paths in the script accordingly.
+
+4. **Execute the Script**
+
+   Open your terminal or command prompt and navigate to the directory containing the files. Run the following command:
+
+   ```bash
+   python analysis.py
